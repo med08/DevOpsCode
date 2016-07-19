@@ -18,6 +18,7 @@
   <ciManagement />
   
   <developers>
+    <!--Modificare-->
     <developer>
       <id>eric_evans</id>
       <name>Eric Evans</name>
