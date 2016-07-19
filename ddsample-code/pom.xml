@@ -16,6 +16,7 @@
     </site>
   </distributionManagement>
   <ciManagement />
+  
   <developers>
     <developer>
       <id>eric_evans</id>
